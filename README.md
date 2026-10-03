@@ -16,7 +16,7 @@ A Chrome extension that brings Safari's swipe-down-to-refresh gesture to Chrome 
 
 1. Download this repository (Code > Download ZIP) and unzip it, or clone it:
    ```
-   git clone https://github.com/YOUR-USERNAME/swipe-down-refresh.git
+   git clone https://github.com/saimumarafat/swipe-down-refresh.git
    ```
 2. Open `chrome://extensions` in Chrome
 3. Turn on **Developer mode** (top right)
